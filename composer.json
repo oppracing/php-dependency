@@ -1,0 +1,13 @@
+{
+    "name": "oppracing/php-dependency",
+    "description": "Shared dependency library for OPPRacing projects",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ryanto"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
