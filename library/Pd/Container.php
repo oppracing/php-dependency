@@ -1,8 +1,5 @@
 <?php
 
-require_once 'Pd/Container/Maps.php';
-require_once 'Pd/Container/Dependencies.php';
-
 /**
  * Singleton (eww) that holds dependencies/maps.
  *
